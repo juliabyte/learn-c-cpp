@@ -1,4 +1,4 @@
 ### este repositório contém:
-- projetos em C
-- projetos em C++
+- projetos e aprendizados em C
+- projetos e aprendizados em C++
 - respostas aceitas em judges online
